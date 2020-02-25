@@ -64,7 +64,7 @@ body, html {
 
 #gif {
   opacity: 0;
-  background: url('https://i.imgur.com/gYG85bW.gif') no-repeat;
+  background: url('https://raw.githubusercontent.com/danilonobren/nawr/master/gifs/sub.gif') no-repeat;
   background-size: contain;
   width: 80%;
   height: 80%;
