@@ -122,7 +122,6 @@ body, html {
   animation: rubberBand 1s ease;
   animation-delay: 2s;
   animation-iteration-count: 5;
-  animation-fill-mode: backwards;
 }
 
 #message {
